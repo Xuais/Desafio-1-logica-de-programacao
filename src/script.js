@@ -1,7 +1,7 @@
 // 1️⃣ Desafio Classificador de nível de Herói
 
 let personagem = "Zeca Machadinho";
-let experiencia = 1005;
+let experiencia = 10005;
 let nivelXp = "";
 
 
@@ -30,6 +30,6 @@ if (experiencia <= 1000){
     nivelXp = "Radiante";
 };
    
-console.log("Seu nível, " + personagem + ", é: " + nivelXp);
+console.log("O Herói de nome " + personagem + " está no nível de " + nivelXp);
 
 // fim 
