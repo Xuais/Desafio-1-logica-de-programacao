@@ -1,4 +1,4 @@
-# 1️⃣ Desafio Classificador de nível de Herói
+// 1️⃣ Desafio Classificador de nível de Herói
 
 let personagem = "Zeca Machadinho"
 let experiencia = 1005
@@ -31,3 +31,5 @@ if (experiencia <= 1000){
 }
    
 console.log("Seu nível, " + personagem + ", é: " + nivelXp);
+
+// fim 
